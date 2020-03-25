@@ -1,0 +1,123 @@
+body {background: #BE8750;
+  position: absolute;
+    font: 20px Times New Roman ;
+    background-size: cover;
+     margin: 0 auto; /* сайт располагается по центру экрана */
+      max-width: 1200px;
+      margin: 5px 10px 0 10px;
+
+}
+div{
+  background: #FEFDFD;
+
+}
+img{
+  margin: 5px 0 0 0;
+  position: relative;
+  width: 100%;
+  max-width: 1268px;
+  max-height: 150px;
+  
+}
+
+
+}
+.flex-container1 {
+background: #FEFDFD;
+margin: -15px 0 0 5px;
+}
+
+
+
+ .menu ul {
+  display: flex;
+  background: #080A0F;
+  padding: 0; 
+
+}
+
+.menu a {
+padding-left:auto;
+padding-right: auto;
+  padding-bottom: 4%;
+  padding-top: 4%;
+  flex-grow: 1;
+  display: block;
+  color: #E0EEED;
+background:#080A0F;}
+.menu a:hover {
+  background: #1F4A48
+  margin: 0 0 0 5px;
+}
+
+.flex-container0{
+  flex-direction: row;
+  flex-flow: row nowrap;
+  background:#FEFDFD;
+  margin: 5px 10px 0 10px;
+  max-height:100% ;
+
+}
+.flex-element2{
+  height: 15%; width: 96%;
+  margin: 0 0 0 5px;
+}
+.flex-element3{
+  flex-direction: column-reverse;
+	font-family:Arial;
+  background:#FEFDFD;
+  margin: 0px 5px 0 5px;
+  
+
+} 
+
+.flex-element4{ 
+  word-break:break-all;
+  flex-grow:1;
+  height: 90%;
+  width: 30%;
+  justify-content: space-around;
+  flex-direction: column;
+  padding-left: 5%;
+  margin-top: 5%;
+  margin: 0 -20px 0 0;
+} 
+} 
+.NewToDay{
+  background:#5B80D1;
+  margin: 0 0 0 0;
+  max-width: 100%;
+
+}
+.min{
+  margin: 0 0 0 -20px;
+
+}
+.flex-element5{
+  background:#5B80D1;
+   height: 500px;
+  width: 100%;
+  margin: -10px 10px 0 10px;
+	
+
+} 
+.flex-element6{
+  
+  background:#EFEAE6;
+
+} 
+.flex-element8{
+  
+  background:#EFEAE6;
+
+} 
+.flex-element9{
+  
+  background:#EFEAE6;
+
+}   
+.flex-element10{
+  
+  background: rgba(138, 202, 152, 0.986);
+
+}   
